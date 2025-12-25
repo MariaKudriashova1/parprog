@@ -8,5 +8,6 @@ b. На большом объеме данных (n=200000) показано, ч
 
 <img width="1001" height="666" alt="изображение" src="https://github.com/user-attachments/assets/7012dc1f-085a-40e8-84a8-0f0c66722f0b" />
 
-<img width="874" height="579" alt="изображение" src="https://github.com/user-attachments/assets/c8b2fb0b-7552-469a-9275-5025726d2a84" />
+<img width="872" height="561" alt="изображение" src="https://github.com/user-attachments/assets/d2c8379a-6915-414d-abcf-5452ef53f569" />
+
 
